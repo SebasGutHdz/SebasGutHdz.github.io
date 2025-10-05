@@ -29,7 +29,7 @@ latest_posts:
 
 Welcome! Thanks for checking out my website.
 
-I am currently a fifth-year [CSE Ph.D.](https://math.gatech.edu/graduate/phd-computational-sciences-and-engineering) student (expected graduation: Spring 2026). I describe myself as a computational mathematician—I am interested in developing computational techniques for the solution of mathematical problems. 
+I am currently a fifth-year [CSE Ph.D.](https://math.gatech.edu/graduate/phd-computational-sciences-and-engineering) student (expected graduation: Fall 2026). I describe myself as a computational mathematician—I am interested in developing computational techniques for the solution of mathematical problems. 
 
 During my Ph.D., I have focused on two main research areas. My primary interest is developing computational methods for solving Optimal Transport problems with Lagrangian costs under the direction of [Prof. Haomin Zhou](https://hmzhou.math.gatech.edu/). Additionally, I have been working on Operator Learning techniques for solving PDE-constrained optimization under uncertainty with [Prof. Peng Chen](https://faculty.cc.gatech.edu/~pchen402/).
 You can find me on [LinkedIn](https://www.linkedin.com/in/sebastian-gutierrez-9243b4114) and [X](https://x.com/Sebas_Gut_Hdz).
