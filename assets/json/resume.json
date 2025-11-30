@@ -38,6 +38,15 @@
       "startDate": "2014-08-01",
       "endDate": "2019-06-01"
     }
+  ],
+  "professional experience": [
+    {
+      "company": "Mitsubishi Electric Research Labs (MERL)",
+      "position": "Research Intern",
+      "area": "Unceratinty quantification in scientific machine learning",
+      "startDate": "2023-05-09",
+      "endDate": "2023-08-09"
+    }
   ]
   
 }
