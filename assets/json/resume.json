@@ -21,6 +21,22 @@
       "studyType": "PhD",
       "startDate": "2021-08-01",
       "endDate": "Fall 2026"
+    },
+    {
+      "institution": "Centro de Investigación en Matemáticas (CIMAT)",
+      "location": "Guanajuato, Mexico",
+      "area": "Applied Mathematics",
+      "studyType": "Master's Degree",
+      "startDate": "2019-08-01",
+      "endDate": "2021-06"
+    },
+    {
+      "institution": "National Polytechnic Institute of Mexico (IPN",
+      "location": "Mexico City, Mexico",
+      "area": "Major in Mathematics, minor in Physics",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2014-08-01",
+      "endDate": "2019-06-01"
     }
   ]
   
