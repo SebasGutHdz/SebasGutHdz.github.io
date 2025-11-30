@@ -6,7 +6,7 @@ subtitle: <a href='#'>School of Mathematics, Georgia Institute of Technology</a>
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: SGH_Profile.jpg
   image_circular: false # crops the image to make it circular
   # more_info: >
     # <p>School of Mathematics, Georgia Institute of Technology</p>
